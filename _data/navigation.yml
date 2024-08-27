@@ -3,8 +3,8 @@ main:
   - title: "CV"
     url: /files/Academic_CV_Kosha_Modi.pdf
   
-  #- title: "Publications"
-  #  url: /publications/
+  - title: "Research"
+    url: /research/
 
   #- title: "Talks"
   #  url: /talks/    
