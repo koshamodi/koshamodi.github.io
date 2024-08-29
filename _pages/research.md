@@ -8,14 +8,14 @@ author_profile: true
 Working Papers
 ======
 [The Perceived Sources of Unexpected Inflation]() 
-  _with_ Emilio Zaratiegui
+  _with_ [Emilio Zaratiegui](https://www.emiliozaratiegui.com/)
 
 We propose a new methodology to decompose the sources of unexpected inflation into demand, supply and monetary shock components. We study high frequency asset price changes around Consumer Price Index announcements in the US to document several new facts. An unexpected increase in the CPI inflation leads to (a) an increase in the breakeven inflation rates (b) an increase in treasury nominal yields and (c) a decrease in treasury real yields on an average. We interpret these facts through the lens of a New Keynesian Model with dispersed information to find that all the three shocks: demand, supply and monetary, contributed substantially to inflation surprises between 2004-2022.
 
 [Anatomy of Banks' IT Investments: Drivers and Implications](https://www.imf.org/en/Publications/WP/Issues/2022/12/09/The-Anatomy-of-Banks-IT-Investments-Drivers-and-Implications-526821) 
-  _with_ Nicola Pierri, Yannick Timmer and María Soledad Martínez Pería
+  _with_ [Nicola Pierri](https://www.nicolapierri.com/), [Yannick Timmer](https://sites.google.com/site/timmeryannick/) and María Soledad Martínez Pería
 
-This paper relies on administrative data to study determinants and implications of US banks’ Information Technology (IT) investments, which have increased six-fold over two decades. Large and small banks had similar IT expenses a decade ago. Since then, large banks sharply increased their spending, especially those which were more exposed to competition from fintech lenders. Other local-level and bank-level factors, such as county income and bank income sources, also contribute to explain the heterogeneity in IT investments. Analysis of the mortgage market reveals that fintechs’ lending behavior is more similar to that of non-bank financial intermediaries rather than IT-savvy banks, suggesting that factors other than technology are responsible for the differences between banks and other lenders. However, both IT-savvy banks and fintech lend to lower income borrowers, pointing towards benefits for financial inclusion from higher IT adoption. Banks’ IT investments are also shown to matter for the responsiveness of bank lending to monetary policy.
+Using a newly compiled measure, this paper studies the determinants and implications of US banks’ Information Technology (IT) investments. Exposure to fintech competition and novel economies of scale are important drivers of the six-fold increase in IT investments observed over two decades. Further analyses point towards significant  implications of banks’ IT investments for both (i) monetary policy transmission to lending and (ii) financial inclusion of low income borrowers.
 
 [Loan Covenants and the Firm Investment Channel of Monetary Policy]()
 
