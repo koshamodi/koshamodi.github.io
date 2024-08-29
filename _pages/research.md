@@ -29,4 +29,11 @@ We study the role of loan-level financial covenants in determining the investmen
 
 <script>
 function toggleAbstract(id) {
-  var x = document.getElementById
+  var x = document.getElementById(id);
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
