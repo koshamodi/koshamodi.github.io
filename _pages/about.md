@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![Your Name](/images/Kosha_dp.jpg){: style="width: 100%; max-width: 600px; display: block; margin: 0 auto;"}
+
 
 Hi! I am a 5th Year Ph.D. candidate in Economics at Columbia University. My primary research interests are in macrofinance and monetary economics. Prior to Columbia, I did my bachelors in economics from Presidency University and my masters in economics from Indian Statistical Institute, Delhi. 
 
