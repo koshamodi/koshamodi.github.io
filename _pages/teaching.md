@@ -20,5 +20,5 @@ International Economics
 
 Awards
 ======
-Wueller Teaching Fellow Award, Columbia University, 2020-2021 (runner up)
+Wueller Award for best Teaching Assistant, Columbia University, 2020-2021 (runner up)
 
