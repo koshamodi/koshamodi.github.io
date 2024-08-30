@@ -10,7 +10,14 @@ Job Market Paper
 [The Perceived Sources of Unexpected Inflation]() 
   _with_ [Emilio Zaratiegui](https://www.emiliozaratiegui.com/)
 
-We propose a new methodology to decompose the sources of unexpected inflation into demand, supply and monetary shock components. We study high frequency asset price changes around Consumer Price Index announcements in the US to document several new facts. An unexpected increase in the CPI inflation leads to (a) an increase in the breakeven inflation rates (b) an increase in treasury nominal yields and (c) a decrease in treasury real yields on an average. We interpret these facts through the lens of a New Keynesian Model with dispersed information to find that all the three shocks: demand, supply and monetary, contributed substantially to inflation surprises between 2004-2022.
+We use high-frequency asset price changes around Consumer Price Index announcements in the
+US to learn about market perceptions regarding the economy. First, we document three facts. An
+unexpected increase in the CPI inflation leads to an increase in (a) treasury nominal yields (b) forward
+breakeven inflation rates. The response of the stock price and the future annual dividends of S&P
+500 companies varies over the years. We interpret these facts through the lens of a New Keynesian
+Model with an inflation announcement to decompose unexpected inflation into demand and supply
+components. We find that the share of supply in unexpected inflation has increased by 20 percentage
+points post-covid.
 
 Working Papers
 ======
