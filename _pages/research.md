@@ -5,12 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
-Working Papers
+Job Market Paper
 ======
 [The Perceived Sources of Unexpected Inflation]() 
   _with_ [Emilio Zaratiegui](https://www.emiliozaratiegui.com/)
 
 We propose a new methodology to decompose the sources of unexpected inflation into demand, supply and monetary shock components. We study high frequency asset price changes around Consumer Price Index announcements in the US to document several new facts. An unexpected increase in the CPI inflation leads to (a) an increase in the breakeven inflation rates (b) an increase in treasury nominal yields and (c) a decrease in treasury real yields on an average. We interpret these facts through the lens of a New Keynesian Model with dispersed information to find that all the three shocks: demand, supply and monetary, contributed substantially to inflation surprises between 2004-2022.
+
+Working Papers
+======
 
 [Anatomy of Banks' IT Investments: Drivers and Implications](https://www.imf.org/en/Publications/WP/Issues/2022/12/09/The-Anatomy-of-Banks-IT-Investments-Drivers-and-Implications-526821) 
   _with_ [Nicola Pierri](https://www.nicolapierri.com/), [Yannick Timmer](https://sites.google.com/site/timmeryannick/) and María Soledad Martínez Pería
