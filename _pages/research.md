@@ -22,7 +22,7 @@ points post-covid.
 Working Papers
 ======
 
-[Anatomy of Banks' IT Investments: Drivers and Implications](/files/papers/Fintech_and_IT_adoption.pdf)[IMF Working Paper](https://www.imf.org/en/Publications/WP/Issues/2022/12/09/The-Anatomy-of-Banks-IT-Investments-Drivers-and-Implications-526821) 
+[Anatomy of Banks' IT Investments: Drivers and Implications](/files/papers/Fintech_and_IT_adoption.pdf) _[(IMF Working Paper)](https://www.imf.org/en/Publications/WP/Issues/2022/12/09/The-Anatomy-of-Banks-IT-Investments-Drivers-and-Implications-526821)_ 
   _with_ [Nicola Pierri](https://www.nicolapierri.com/), [Yannick Timmer](https://sites.google.com/site/timmeryannick/) and [María Soledad Martínez Pería](https://www.imf.org/en/Research/Researcher-CV/Author/Martinez-Peria-Maria?AuthID=272#Background) _(submitted)_
 
 Using a newly compiled measure, this paper studies the determinants and implications of US banks’ Information Technology (IT) investments. Exposure to fintech competition and novel economies of scale are important drivers of the six-fold increase in IT investments observed over two decades. Further analyses point towards significant  implications of banks’ IT investments for both (i) monetary policy transmission to lending and (ii) financial inclusion of low income borrowers.
