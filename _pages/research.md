@@ -7,7 +7,7 @@ author_profile: true
 
 Job Market Paper
 ======
-[The Perceived Sources of Unexpected Inflation]() 
+[The Perceived Sources of Unexpected Inflation](/files/papers/The_Perceived_Sources_of_Unexpected_Inflation.pdf) 
   _with_ [Emilio Zaratiegui](https://www.emiliozaratiegui.com/)
 
 We use high-frequency asset price changes around Consumer Price Index announcements in the
