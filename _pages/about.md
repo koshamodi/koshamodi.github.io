@@ -16,4 +16,4 @@ In 2024, I was as a Dissertation Fellow at the Federal Reserve Bank of St. Louis
 
 Prior to Columbia, I did my bachelors in economics from Presidency University and my masters in economics from Indian Statistical Institute, Delhi. 
 
-For more information, please see my [CV](/files/Academic_CV_Kosha_Modi.pdf) or reach out to me at [kosha.modi@columbia.edu](kosha.modi@columbia.edu).
+For more information, please see my [CV](/files/Academic_CV_Kosha_Modi.pdf) or reach out to me at [mailto:kosha.modi@columbia.edu](kosha.modi@columbia.edu).
