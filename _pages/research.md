@@ -7,8 +7,8 @@ author_profile: true
 
 Job Market Paper
 ======
-[The Perceived Sources of Unexpected Inflation](/files/papers/The_Perceived_Sources_of_Unexpected_Inflation.pdf) 
-  _with_ [Emilio Zaratiegui](https://www.emiliozaratiegui.com/)
+[The Perceived Sources of Unexpected Inflation](/files/papers/The_Perceived_Sources_of_Unexpected_Inflation.pdf) _[(SSRN Link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5557578)_ 
+  _with_ [Emilio Zaratiegui](https://www.emiliozaratiegui.com/) 
 
 We use high-frequency asset price changes around Consumer Price Index announcements in the US to learn about market perceptions regarding the economy.  We write a New Keynesian Model with incomplete information and an inflation announcement to extract the demand and supply share of unexpected inflation through observable asset price changes around the announcement. The key intuition is that, given a standard Taylor rule, if consumption expectations rise in response to a positive surprise in inflation, it implies that a positive demand shock plays an important role, whereas if consumption expectations fall in response, it highlights the significance of a negative supply shock. Empirically, we find that the response of expected future annual dividends of S&P 500 companies to a positive surprise in inflation around US CPI announcements was positive before the Covid period but turned negative post-Covid. We use these to construct high-frequency changes in expectations of future real consumption. We also find that future treasury nominal yields and forward breakeven inflation rates increase in response to a positive surprise in inflation throughout the period. Interpreting our empirical findings through the lens of the model, we find that the relative share of supply in unexpected inflation has increased by 20 percentage points post-Covid.
 
